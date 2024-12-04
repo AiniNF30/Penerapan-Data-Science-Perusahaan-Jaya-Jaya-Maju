@@ -1,4 +1,4 @@
-# Proyek Akhir : Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
+# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
 ## Business Understanding
 Perusahaan Jaya Jaya Maju menghadapi masalah tingginya tingkat keluarnya karyawan (attrition). Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%. Oleh karena itu, perlu dianalisis faktor-faktor yang mempengaruhi tingkat keluarnya karyawan untuk membantu departemen HR dalam mengurangi tingkat attrition.
